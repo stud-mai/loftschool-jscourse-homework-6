@@ -4,7 +4,7 @@
 2. `Sorted-cities` - ДЗ2 - страница с отсортированными по алфавиту городами, загруженных при помощи AJAX из https://raw.githubusercontent.com/smelukov/citiesTest/master/cities.json
 3. `Search-city` - ДЗ3 - страница с текстовым полем, при вводе в которое, выводит список городов, в названиях которых есть введенный текст
 
-#Homework #5
+#Homework #6
 
 Each part of the homework is located in its catalog:
 
